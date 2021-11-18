@@ -1,4 +1,4 @@
-## Oiii eu sou Wendryo Sales!
+## Olá, eu sou Wendryo Sales!
 
 - 🔭 Sou estudante de desenvolvimento Web na Trybe
 - 😄 Pronomes: Ele/Dele
