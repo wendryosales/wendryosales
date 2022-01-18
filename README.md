@@ -1,8 +1,6 @@
 ## Olá, eu sou Wendryo Sales!
 
 - 🔭 Sou estudante de desenvolvimento Web na Trybe
-- 😄 Pronomes: Ele/Dele
-
 
 <div align="center">
   <a href="https://github.com/wendryosales">
