@@ -9,11 +9,14 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center"  width="30" src="https://img.icons8.com/color/344/typescript.png">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="30" src="https://img.icons8.com/color/344/redux.png">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"  width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png">
 </div>
   
   ##
