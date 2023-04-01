@@ -1,6 +1,5 @@
 ## Olá, eu sou Wendryo Sales!
 
-- 🔭 Sou estudante de desenvolvimento Web na Trybe
   <div>
     <img width="400em" src="./octocat-1657051815095.png" />
   </div>
