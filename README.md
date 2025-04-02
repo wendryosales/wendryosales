@@ -3,11 +3,13 @@
 <p align="center">
   <a href="https://github.com/wendryosales" target="_blank"><img src="https://img.shields.io/badge/-@wendryosales-282C34?logo=GitHub&logoColor=white" alt="Github logo" title="Github" height="25"></a>
 &nbsp;
+    <a href="https://www.linkedin.com/in/wendryosales/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" alt="Linkedin logo" title="Linkedin" height="25"></a>
 &nbsp;
   <a href="https://medium.com/@wendryo.sales" target="_blank"><img src="https://img.shields.io/badge/-Medium-282C34?logo=medium&logoColor=FFFFFF" alt="Medium logo" title="Medium" height="25"></a>
 &nbsp;
   <a href="mailto:wendryo.sales@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25"></a>
 &nbsp;
+    <a href="https://wendryo.netlify.app/#/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-282C34?logo=wattpad&logoColor=FF500A" alt="Porfolio logo" title="Portfolio" height="25"></a>
 &nbsp;
 </p>
 
